@@ -1,0 +1,8 @@
+1. download and unpack nUnitFramework 3.12
+2. download and uzip c# project
+3. open cmd.exe
+4. in cmd navigate to bin/debug folder
+5. execute tests by issuing a command ("[path to nunitlite-runner.exr]" [application dll]), example:
+C:\Users\tomek\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Console
+Application1\bin\Debug>"C:\Users\tomek\Downloads\NUnit.Framework-3.12.0\bin\net4
+5\nunitlite-runner.exe" ConsoleApplication1.dll
